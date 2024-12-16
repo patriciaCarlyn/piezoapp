@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "725413138941",
+    "firebase_url": "https://content-management-syste-beafb-default-rtdb.firebaseio.com",
+    "project_id": "content-management-syste-beafb",
+    "storage_bucket": "content-management-syste-beafb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725413138941:android:dfe2be8099e43406974994",
+        "android_client_info": {
+          "package_name": "com.example.exercise_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqhpMS2-Im8sYiNaXVRHwp4oqJilqztqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725413138941:android:bc8a405f31e8caef974994",
+        "android_client_info": {
+          "package_name": "com.example.hydroponic_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqhpMS2-Im8sYiNaXVRHwp4oqJilqztqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725413138941:android:e894a0ff69f1f830974994",
+        "android_client_info": {
+          "package_name": "com.example.piezogenerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqhpMS2-Im8sYiNaXVRHwp4oqJilqztqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
